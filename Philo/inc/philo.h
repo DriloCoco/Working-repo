@@ -57,4 +57,8 @@ typedef struct s_table
 }	t_table;
 
 
+void ft_print_table(t_table *table);
+int	ft_atoi(const char *nptr);
+
+
 #endif
